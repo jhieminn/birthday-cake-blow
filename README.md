@@ -14,7 +14,7 @@ A fun interactive birthday cake where you blow out candles using your microphone
 
 ## 🚀 How to Use
 
-1. Open the application in your browser
+1. Open [the application](https://jhieminn.github.io/birthday-cake-blow/) in your browser
 2. Allow microphone access
 3. Blow into your microphone to extinguish the candles
 4. Enjoy the celebration with confetti and music!
@@ -30,6 +30,7 @@ A fun interactive birthday cake where you blow out candles using your microphone
 ## 📜 Credits
 
 - Cake design inspired by [Fazlur Rahman's CodePen](https://codepen.io/fazlurr/pen/gPMJMK)
+- Project is forked and inspired from [sherryuser's cake-blow](https://github.com/sherryuser/cake-blow)
 - Original concept from creative Instagram content
 
 ## 📄 License
