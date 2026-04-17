@@ -31,12 +31,9 @@ A fun interactive birthday cake where you blow out candles using your microphone
 
 - Cake design inspired by [Fazlur Rahman's CodePen](https://codepen.io/fazlurr/pen/gPMJMK)
 - Project is forked and inspired from [sherryuser's cake-blow](https://github.com/sherryuser/cake-blow)
-- Original concept from creative Instagram content
+- Original concept from [creative Instagram content of mewtru](https://www.instagram.com/reel/C0xoHgDLmqg/)
 
 ## 📄 License
 
 MIT License - Feel free to use and modify!
 
----
-
-**Happy Birthday! 🎂✨**
